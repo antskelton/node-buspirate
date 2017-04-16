@@ -13,8 +13,8 @@
     "url": "https://github.com/rmhsilva/node-buspirate.git"
   },
   "dependencies": {
-    "serialport": "*",
-    "asyncblock": "*",
-    "colors": "*"
+    "asyncblock": "^2.2.9",
+    "colors": "*",
+    "serialport": "*"
   }
 }
